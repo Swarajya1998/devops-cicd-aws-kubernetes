@@ -30,3 +30,4 @@ GitHub → Jenkins → Docker Build → Docker Push → Kubernetes Deploy (EKS)
 ## 📷 Future Improvements
 - Add Helm charts
 - Add monitoring dashboards
+Project setup completed
